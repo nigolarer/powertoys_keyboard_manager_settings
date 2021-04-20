@@ -1,12 +1,12 @@
 # Description
 
-mine Mac Os liked customed powertoys keyboard manager settings.
-As `CTRL` is much more frequency used than `ALT`, Mac Os offered more accessable way when coding with shortcuts by using ur cutie thumb. 
-Thus, here i switched `CTRL` and `ALT`, but it's not even enough, i'd like to copy more convenient shortcuts such as replace `ALT+F4` to `command+w`, etc.
+Here is mine Mac Os liked customed powertoys keyboard manager settings.
+As `CTRL` is much more frequency used than `ALT`, Mac Os offered more accessable way when coding with shortcuts by using ur cutie right thumb instead of little finger! 
+Thus, here i switched `CTRL` and `ALT`, but it's not even enough, i'd like to replace more convenient shortcuts such as replace `ALT+F4` to `command+w`, etc.
 
 # Usage
 
-- open power toys install folder
+- open power toys install folder: `cd %USERPROFILE%\AppData\Local\Microsoft\PowerToys`
 - replace defalut.json
 - enjoy!
 
@@ -31,3 +31,7 @@ switch `Ctrl` and `Alt` to match Mac Os keyboard.
 `Caps Lock` is a quite low frequency key in daily coding conditions but easy to miss-pressed, and after u work with Mac Os for a while, short press `Caps Lock` to switch language between CH and ENG is such a easy and resonable setting, then here i mapped `Caps Lock` to `Shift(left)` to make it have same effect as Mac Os.
 
 --- 
+
+
+# FYI
+https://github.com/microsoft/PowerToys/issues/586
