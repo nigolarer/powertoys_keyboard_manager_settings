@@ -11,9 +11,11 @@ Thus, here i switched `CTRL` and `ALT`, but it's not even enough, i'd like to co
 - enjoy!
 
 
+
 # Details
 
-Basically, u can get all config at PowerToys Settings. But here i'd like to have a general description about mapping key and reason.
+Basically, u can get all config at PowerToys Settings. But here i'd like to have a general description about mapping key and reason:
+
 --- 
 `Ctrl(left)` -> `Alt(Left)`
 
