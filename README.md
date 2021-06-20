@@ -5,9 +5,9 @@ As `CTRL` is much more frequency used than `ALT`, Mac Os offered more accessable
 Thus, here i switched `CTRL` and `ALT`, but it's not even enough, i'd like to replace more convenient shortcuts such as replace `ALT+F4` to `command+w`, etc.
 
 # Usage
-
-- open power toys install folder: `cd %USERPROFILE%\AppData\Local\Microsoft\PowerToys`
-- replace defalut.json
+- close power toys
+- open power toys install folder: `cd %USERPROFILE%\AppData\Local\Microsoft\PowerToys\Keyboard Manager`
+- replace or create defalut.json
 - enjoy!
 
 
